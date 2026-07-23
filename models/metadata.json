@@ -1,0 +1,6 @@
+{
+    "model_terbaik": "Gradient Boosting",
+    "r2_cv_score": 0.6776,
+    "metrik_utama": "MAE dan R2",
+    "justifikasi_bisnis": "MAE dipilih karena lebih mudah dipahami oleh penjual mobil bekas sebagai selisih harga absolut dalam satuan mata uang asli. R2 untuk melihat seberapa baik fitur menjelaskan variansi harga."
+}
