@@ -6,7 +6,7 @@ __pycache__/
 */__pycache__/
 *.pyc
 
-# Dataset & Models (Wajib Rubrik)
+# Dataset & Models 
 data/
 models/
 
